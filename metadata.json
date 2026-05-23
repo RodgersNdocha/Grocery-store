@@ -1,0 +1,6 @@
+{
+  "name": "FreshCart Groceries",
+  "description": "A modern, high-performance grocery delivery web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
